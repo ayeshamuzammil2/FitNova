@@ -239,7 +239,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **Ayesha Muzammil**
 
-- GitHub: [@ayeshamuzammil099](https://github.com/ayeshamuzammil099)
+- GitHub: [@ayeshamuzammil2](https://github.com/ayeshamuzammil2)
 
 ---
 
