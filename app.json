@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "FitNova",
+    "slug": "FitNova",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/image.png",
+    "scheme": "fitnova",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "predictiveBackGestureEnabled": false,
+      "package": "com.ayeshamuzammil099.FitNova"
+    },
+    "plugins": [
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#208AEF"
+        }
+      ],
+      "expo-sharing"
+    ]
+  }
+}
