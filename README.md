@@ -239,7 +239,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **Ayesha Muzammil**
 
-- Email: [@ayeshamuzammil09@gmail.com](https://github.com/ayeshamuzammil2)
+- Email: [ayeshamuzammil09@gmail.com](mailto:ayeshamuzammil09@gmail.com)
 
 ---
 
